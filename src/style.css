@@ -10,7 +10,3 @@
 .field-block > :last-child {
   margin-bottom: 0;
 }
-
-#age {
-  width: 3em;
-}
